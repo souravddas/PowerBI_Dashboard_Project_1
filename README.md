@@ -1,5 +1,6 @@
 # PowerBI_Dashboard_Project_1
 🛒 Amazon E-Commerce Sales Dashboard (Power BI Project)
+
 📁 Project Overview
 
 This Power BI dashboard visualizes e-commerce sales performance data from Amazon using two CSV datasets — Orders.csv and Details.csv.
